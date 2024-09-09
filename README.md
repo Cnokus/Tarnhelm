@@ -1,4 +1,4 @@
-# Tarnhelm
+# Tarnhelm (or CATonomy)
 
 Tarnhelm is to become a free app mainly for creation and management of text notes, their synchronisation between different OS via Bluetooth.
 
